@@ -1,1 +1,3 @@
-// Code your solution here
+const findMatching = (drivers) => drivers.filter(driver => driver)
+
+findMatching(drivers)
